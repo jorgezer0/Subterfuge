@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 9fb1633b9a844654a8dd91addefe7add
+timeCreated: 1510707278
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Estante
+    100002: //RootNode
+    100004: Livros 002
+    100006: Livros 003
+    100008: Livros 004
+    100010: Livros 005
+    100012: Livros 006
+    100014: Livros 007
+    100016: Livros 008
+    100018: Livros 009
+    100020: Livros 010
+    100022: Livros 011
+    100024: Livros 012
+    100026: Livros 013
+    100028: Livros 014
+    100030: Livros 016
+    100032: Livros 017
+    100034: Livros 018
+    100036: Livros 019
+    100038: Livros 020
+    100040: Livros 021
+    100042: Livros 024
+    100044: Livros 025
+    100046: Livros 028
+    100048: Livros 029
+    100050: Livros 030
+    100052: Livros 031
+    100054: Livros 032
+    100056: Livros 033
+    100058: Livros 034
+    100060: Livros 035
+    100062: Livros 036
+    100064: Livros 037
+    100066: Livros 038
+    100068: Livros 039
+    100070: Livros 040
+    100072: Livros 041
+    100074: Livros 042
+    100076: Livros 043
+    100078: Livros 044
+    100080: Livros 045
+    100082: Livros 046
+    100084: Livros 047
+    100086: Livros 048
+    100088: Livros 049
+    100090: Livros 050
+    100092: Livros 051
+    100094: Livros 052
+    100096: Livros 053
+    100098: Livros 054
+    100100: Livros 055
+    100102: Livros 056
+    100104: Livros 057
+    100106: Livros 058
+    100108: Livros 059
+    100110: Livros 060
+    100112: Livros 061
+    100114: Livros 062
+    100116: Livros 063
+    100118: Livros 064
+    100120: Livros 065
+    100122: Livros 066
+    100124: Livros 067
+    100126: Livros 068
+    100128: Livros 069
+    100130: Livros 070
+    100132: Livros 1
+    400000: Estante
+    400002: //RootNode
+    400004: Livros 002
+    400006: Livros 003
+    400008: Livros 004
+    400010: Livros 005
+    400012: Livros 006
+    400014: Livros 007
+    400016: Livros 008
+    400018: Livros 009
+    400020: Livros 010
+    400022: Livros 011
+    400024: Livros 012
+    400026: Livros 013
+    400028: Livros 014
+    400030: Livros 016
+    400032: Livros 017
+    400034: Livros 018
+    400036: Livros 019
+    400038: Livros 020
+    400040: Livros 021
+    400042: Livros 024
+    400044: Livros 025
+    400046: Livros 028
+    400048: Livros 029
+    400050: Livros 030
+    400052: Livros 031
+    400054: Livros 032
+    400056: Livros 033
+    400058: Livros 034
+    400060: Livros 035
+    400062: Livros 036
+    400064: Livros 037
+    400066: Livros 038
+    400068: Livros 039
+    400070: Livros 040
+    400072: Livros 041
+    400074: Livros 042
+    400076: Livros 043
+    400078: Livros 044
+    400080: Livros 045
+    400082: Livros 046
+    400084: Livros 047
+    400086: Livros 048
+    400088: Livros 049
+    400090: Livros 050
+    400092: Livros 051
+    400094: Livros 052
+    400096: Livros 053
+    400098: Livros 054
+    400100: Livros 055
+    400102: Livros 056
+    400104: Livros 057
+    400106: Livros 058
+    400108: Livros 059
+    400110: Livros 060
+    400112: Livros 061
+    400114: Livros 062
+    400116: Livros 063
+    400118: Livros 064
+    400120: Livros 065
+    400122: Livros 066
+    400124: Livros 067
+    400126: Livros 068
+    400128: Livros 069
+    400130: Livros 070
+    400132: Livros 1
+    2300000: Estante
+    2300002: Livros 002
+    2300004: Livros 003
+    2300006: Livros 004
+    2300008: Livros 005
+    2300010: Livros 006
+    2300012: Livros 007
+    2300014: Livros 008
+    2300016: Livros 009
+    2300018: Livros 010
+    2300020: Livros 011
+    2300022: Livros 012
+    2300024: Livros 013
+    2300026: Livros 014
+    2300028: Livros 016
+    2300030: Livros 017
+    2300032: Livros 018
+    2300034: Livros 019
+    2300036: Livros 020
+    2300038: Livros 021
+    2300040: Livros 024
+    2300042: Livros 025
+    2300044: Livros 028
+    2300046: Livros 029
+    2300048: Livros 030
+    2300050: Livros 031
+    2300052: Livros 032
+    2300054: Livros 033
+    2300056: Livros 034
+    2300058: Livros 035
+    2300060: Livros 036
+    2300062: Livros 037
+    2300064: Livros 038
+    2300066: Livros 039
+    2300068: Livros 040
+    2300070: Livros 041
+    2300072: Livros 042
+    2300074: Livros 043
+    2300076: Livros 044
+    2300078: Livros 045
+    2300080: Livros 046
+    2300082: Livros 047
+    2300084: Livros 048
+    2300086: Livros 049
+    2300088: Livros 050
+    2300090: Livros 051
+    2300092: Livros 052
+    2300094: Livros 053
+    2300096: Livros 054
+    2300098: Livros 055
+    2300100: Livros 056
+    2300102: Livros 057
+    2300104: Livros 058
+    2300106: Livros 059
+    2300108: Livros 060
+    2300110: Livros 061
+    2300112: Livros 062
+    2300114: Livros 063
+    2300116: Livros 064
+    2300118: Livros 065
+    2300120: Livros 066
+    2300122: Livros 067
+    2300124: Livros 068
+    2300126: Livros 069
+    2300128: Livros 070
+    2300130: Livros 1
+    3300000: Estante
+    3300002: Livros 002
+    3300004: Livros 003
+    3300006: Livros 004
+    3300008: Livros 005
+    3300010: Livros 006
+    3300012: Livros 007
+    3300014: Livros 008
+    3300016: Livros 009
+    3300018: Livros 010
+    3300020: Livros 011
+    3300022: Livros 012
+    3300024: Livros 013
+    3300026: Livros 014
+    3300028: Livros 016
+    3300030: Livros 017
+    3300032: Livros 018
+    3300034: Livros 019
+    3300036: Livros 020
+    3300038: Livros 021
+    3300040: Livros 024
+    3300042: Livros 025
+    3300044: Livros 028
+    3300046: Livros 029
+    3300048: Livros 030
+    3300050: Livros 031
+    3300052: Livros 032
+    3300054: Livros 033
+    3300056: Livros 034
+    3300058: Livros 035
+    3300060: Livros 036
+    3300062: Livros 037
+    3300064: Livros 038
+    3300066: Livros 039
+    3300068: Livros 040
+    3300070: Livros 041
+    3300072: Livros 042
+    3300074: Livros 043
+    3300076: Livros 044
+    3300078: Livros 045
+    3300080: Livros 046
+    3300082: Livros 047
+    3300084: Livros 048
+    3300086: Livros 049
+    3300088: Livros 050
+    3300090: Livros 051
+    3300092: Livros 052
+    3300094: Livros 053
+    3300096: Livros 054
+    3300098: Livros 055
+    3300100: Livros 056
+    3300102: Livros 057
+    3300104: Livros 058
+    3300106: Livros 059
+    3300108: Livros 060
+    3300110: Livros 061
+    3300112: Livros 062
+    3300114: Livros 063
+    3300116: Livros 064
+    3300118: Livros 065
+    3300120: Livros 066
+    3300122: Livros 067
+    3300124: Livros 068
+    3300126: Livros 069
+    3300128: Livros 070
+    3300130: Livros 1
+    4300000: Livros 1
+    4300002: Estante
+    4300004: Livros 002
+    4300006: Livros 003
+    4300008: Livros 004
+    4300010: Livros 005
+    4300012: Livros 006
+    4300014: Livros 007
+    4300016: Livros 008
+    4300018: Livros 009
+    4300020: Livros 010
+    4300022: Livros 011
+    4300024: Livros 012
+    4300026: Livros 013
+    4300028: Livros 014
+    4300030: Livros 016
+    4300032: Livros 017
+    4300034: Livros 018
+    4300036: Livros 019
+    4300038: Livros 020
+    4300040: Livros 021
+    4300042: Livros 024
+    4300044: Livros 025
+    4300046: Livros 028
+    4300048: Livros 029
+    4300050: Livros 030
+    4300052: Livros 031
+    4300054: Livros 032
+    4300056: Livros 033
+    4300058: Livros 034
+    4300060: Livros 035
+    4300062: Livros 036
+    4300064: Livros 037
+    4300066: Livros 038
+    4300068: Livros 039
+    4300070: Livros 040
+    4300072: Livros 041
+    4300074: Livros 042
+    4300076: Livros 043
+    4300078: Livros 044
+    4300080: Livros 045
+    4300082: Livros 046
+    4300084: Livros 047
+    4300086: Livros 048
+    4300088: Livros 049
+    4300090: Livros 050
+    4300092: Livros 051
+    4300094: Livros 052
+    4300096: Livros 053
+    4300098: Livros 054
+    4300100: Livros 055
+    4300102: Livros 056
+    4300104: Livros 057
+    4300106: Livros 058
+    4300108: Livros 059
+    4300110: Livros 060
+    4300112: Livros 061
+    4300114: Livros 062
+    4300116: Livros 063
+    4300118: Livros 064
+    4300120: Livros 065
+    4300122: Livros 066
+    4300124: Livros 067
+    4300126: Livros 068
+    4300128: Livros 069
+    4300130: Livros 070
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

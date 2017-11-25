@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: f1d74944cfe86d14c8577c77c7b5d670
+timeCreated: 1510101356
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: "Bifurca\xE7\xE3o 2"
+    100002: "Bifurca\xE7\xE3o 2.002"
+    100004: "Bifurca\xE7\xE3o 2.003"
+    100006: "Bifurca\xE7\xE3o 2.1"
+    100008: "Bifurca\xE7\xE3o 3"
+    100010: "Bifurca\xE7\xE3o 4"
+    100012: Biometria 1
+    100014: Cama
+    100016: Canos 1
+    100018: Canos 2
+    100020: Canos 3
+    100022: Colunas
+    100024: Corredor 1
+    100026: Corredor 1_MeshPart0
+    100028: Corredor 1_MeshPart1
+    100030: Corredor CENTRO
+    100032: Corredor CENTRO001
+    100034: Corredor CENTRO002
+    100036: Corredor CENTRO003
+    100038: Corredor L
+    100040: Corredor L001
+    100042: Corredor L002
+    100044: Corredor L003
+    100046: Corredor R
+    100048: Corredor R001
+    100050: Corredor R002
+    100052: Corredor R003
+    100054: "Corrim\xE3o 1"
+    100056: "Corrim\xE3o 2"
+    100058: "C\xF5moda 1"
+    100060: "C\xF5modo"
+    100062: "C\xF5modo001"
+    100064: "C\xF5modo002"
+    100066: "C\xF5modo003"
+    100068: Escrivania
+    100070: Muletas
+    100072: Notebook
+    100074: Porta 1
+    100076: Porta 1.2
+    100078: Quarto (Fim do Jogo)
+    100080: "Quarto (In\xEDcio)"
+    100082: "Sal\xE3o"
+    100084: Spot 1 Teto
+    100086: Spot Corredor
+    100088: Spot Porta 1
+    100090: //RootNode
+    100092: "Tubula\xE7\xE3o Ar"
+    400000: "Bifurca\xE7\xE3o 2"
+    400002: "Bifurca\xE7\xE3o 2.002"
+    400004: "Bifurca\xE7\xE3o 2.003"
+    400006: "Bifurca\xE7\xE3o 2.1"
+    400008: "Bifurca\xE7\xE3o 3"
+    400010: "Bifurca\xE7\xE3o 4"
+    400012: Biometria 1
+    400014: Cama
+    400016: Canos 1
+    400018: Canos 2
+    400020: Canos 3
+    400022: Colunas
+    400024: Corredor 1
+    400026: Corredor 1_MeshPart0
+    400028: Corredor 1_MeshPart1
+    400030: Corredor CENTRO
+    400032: Corredor CENTRO001
+    400034: Corredor CENTRO002
+    400036: Corredor CENTRO003
+    400038: Corredor L
+    400040: Corredor L001
+    400042: Corredor L002
+    400044: Corredor L003
+    400046: Corredor R
+    400048: Corredor R001
+    400050: Corredor R002
+    400052: Corredor R003
+    400054: "Corrim\xE3o 1"
+    400056: "Corrim\xE3o 2"
+    400058: "C\xF5moda 1"
+    400060: "C\xF5modo"
+    400062: "C\xF5modo001"
+    400064: "C\xF5modo002"
+    400066: "C\xF5modo003"
+    400068: Escrivania
+    400070: Muletas
+    400072: Notebook
+    400074: Porta 1
+    400076: Porta 1.2
+    400078: Quarto (Fim do Jogo)
+    400080: "Quarto (In\xEDcio)"
+    400082: "Sal\xE3o"
+    400084: Spot 1 Teto
+    400086: Spot Corredor
+    400088: Spot Porta 1
+    400090: //RootNode
+    400092: "Tubula\xE7\xE3o Ar"
+    2300000: "Bifurca\xE7\xE3o 2"
+    2300002: "Bifurca\xE7\xE3o 2.002"
+    2300004: "Bifurca\xE7\xE3o 2.003"
+    2300006: "Bifurca\xE7\xE3o 2.1"
+    2300008: "Bifurca\xE7\xE3o 3"
+    2300010: "Bifurca\xE7\xE3o 4"
+    2300012: Biometria 1
+    2300014: Cama
+    2300016: Canos 1
+    2300018: Canos 2
+    2300020: Canos 3
+    2300022: Colunas
+    2300024: Corredor 1_MeshPart0
+    2300026: Corredor 1_MeshPart1
+    2300028: Corredor CENTRO
+    2300030: Corredor CENTRO001
+    2300032: Corredor CENTRO002
+    2300034: Corredor CENTRO003
+    2300036: Corredor L
+    2300038: Corredor L001
+    2300040: Corredor L002
+    2300042: Corredor L003
+    2300044: Corredor R
+    2300046: Corredor R001
+    2300048: Corredor R002
+    2300050: Corredor R003
+    2300052: "Corrim\xE3o 1"
+    2300054: "Corrim\xE3o 2"
+    2300056: "C\xF5moda 1"
+    2300058: "C\xF5modo"
+    2300060: "C\xF5modo001"
+    2300062: "C\xF5modo002"
+    2300064: "C\xF5modo003"
+    2300066: Escrivania
+    2300068: Muletas
+    2300070: Notebook
+    2300072: Porta 1
+    2300074: Porta 1.2
+    2300076: Quarto (Fim do Jogo)
+    2300078: "Quarto (In\xEDcio)"
+    2300080: "Sal\xE3o"
+    2300082: Spot 1 Teto
+    2300084: Spot Corredor
+    2300086: Spot Porta 1
+    2300088: "Tubula\xE7\xE3o Ar"
+    3300000: "Bifurca\xE7\xE3o 2"
+    3300002: "Bifurca\xE7\xE3o 2.002"
+    3300004: "Bifurca\xE7\xE3o 2.003"
+    3300006: "Bifurca\xE7\xE3o 2.1"
+    3300008: "Bifurca\xE7\xE3o 3"
+    3300010: "Bifurca\xE7\xE3o 4"
+    3300012: Biometria 1
+    3300014: Cama
+    3300016: Canos 1
+    3300018: Canos 2
+    3300020: Canos 3
+    3300022: Colunas
+    3300024: Corredor 1_MeshPart0
+    3300026: Corredor 1_MeshPart1
+    3300028: Corredor CENTRO
+    3300030: Corredor CENTRO001
+    3300032: Corredor CENTRO002
+    3300034: Corredor CENTRO003
+    3300036: Corredor L
+    3300038: Corredor L001
+    3300040: Corredor L002
+    3300042: Corredor L003
+    3300044: Corredor R
+    3300046: Corredor R001
+    3300048: Corredor R002
+    3300050: Corredor R003
+    3300052: "Corrim\xE3o 1"
+    3300054: "Corrim\xE3o 2"
+    3300056: "C\xF5moda 1"
+    3300058: "C\xF5modo"
+    3300060: "C\xF5modo001"
+    3300062: "C\xF5modo002"
+    3300064: "C\xF5modo003"
+    3300066: Escrivania
+    3300068: Muletas
+    3300070: Notebook
+    3300072: Porta 1
+    3300074: Porta 1.2
+    3300076: Quarto (Fim do Jogo)
+    3300078: "Quarto (In\xEDcio)"
+    3300080: "Sal\xE3o"
+    3300082: Spot 1 Teto
+    3300084: Spot Corredor
+    3300086: Spot Porta 1
+    3300088: "Tubula\xE7\xE3o Ar"
+    4300000: Muletas
+    4300002: Quarto (Fim do Jogo)
+    4300004: "Tubula\xE7\xE3o Ar"
+    4300006: Notebook
+    4300008: "C\xF5moda 1"
+    4300010: "Corrim\xE3o 2"
+    4300012: "C\xF5modo"
+    4300014: Corredor L
+    4300016: "Sal\xE3o"
+    4300018: "Bifurca\xE7\xE3o 2"
+    4300020: Colunas
+    4300022: "Bifurca\xE7\xE3o 3"
+    4300024: Biometria 1
+    4300026: Spot Corredor
+    4300028: Canos 2
+    4300030: "Bifurca\xE7\xE3o 4"
+    4300032: Canos 3
+    4300034: Spot Porta 1
+    4300036: Spot 1 Teto
+    4300038: "Corrim\xE3o 1"
+    4300040: Canos 1
+    4300042: Corredor 1_MeshPart0
+    4300044: Corredor 1_MeshPart1
+    4300046: Porta 1
+    4300048: Escrivania
+    4300050: Cama
+    4300052: "Quarto (In\xEDcio)"
+    4300054: Corredor CENTRO
+    4300056: Porta 1.2
+    4300058: "Bifurca\xE7\xE3o 2.1"
+    4300060: "Bifurca\xE7\xE3o 2.002"
+    4300062: "Bifurca\xE7\xE3o 2.003"
+    4300064: Corredor R
+    4300066: Corredor R001
+    4300068: Corredor L001
+    4300070: Corredor CENTRO001
+    4300072: Corredor CENTRO002
+    4300074: Corredor L002
+    4300076: Corredor R002
+    4300078: Corredor CENTRO003
+    4300080: Corredor L003
+    4300082: Corredor R003
+    4300084: "C\xF5modo001"
+    4300086: "C\xF5modo002"
+    4300088: "C\xF5modo003"
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
